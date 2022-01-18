@@ -7,12 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Access to health insurance is still a challenge for many people and even those with coverage may find the cost for prescriptions to be out of their budget.  
+With the rising cost of drug prices, in some cases, life-saving medication, this website will offer anyone an opportunity to lower their out-of-pocket cost.
+
+Pharma Phriends will be a user-friendly site that allows each user to search for the cheapest drug prices among major pharmacies like CVS, Walgreens, Schnucks, etc.  
+It will then direct the user the closest pharmacies, based on their address, that carries that medication.
+
 ### Features
-Include Features here
+User login: User would login by entering their home address.  Have not determined if user will have to reenter login information each time they access website
+Search: User will be able to enter the type of drug they are needing and search based on that criteria.
+Search Results: User will see a google map of closest pharmacies
+
 ### Technologies
-Include Technologies here
+C#
+MySQL
+API
+Spring Boot
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will gain the knowledge of using an API by linking google maps to give the user the location of the closet pharmacies based on 
+their address that carries the medicine they need.
 ### Project Tracker
 Link to your Trello board here
+https://trello.com/b/KO5KVmRp/launchcode-capstone
